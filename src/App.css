@@ -1,0 +1,11 @@
+h3 {
+	color: #eee;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
